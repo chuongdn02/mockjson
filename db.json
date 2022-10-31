@@ -16,13 +16,21 @@
         }
   ],
       "Lap": [
-       {"name":"Macbook",
-        "price":"26.500.000",
-        "title":"Macbook Pro M1",
-        "manu":"Apple",
-        "color":"Gray"}
+       {
+          "name":"Macbook",
+          "price":"26.500.000",
+          "title":"Macbook Pro M1",
+          "manu":"Apple",
+          "color":"Gray"
+       },
+          {
+          "name":"Macbook",
+          "price":"26.500.000",
+          "title":"Macbook Pro M1",
+         "manu":"Apple",
+         "color":"Gray"
+          }
         ]
-
     }
   ],
   "comments": [
