@@ -1,26 +1,29 @@
 {
   "lap": [
-      {"name":"Macbook","price":"26.500.000","title":"Macbook Pro M1","manu":"Apple","color":"Gray"},
-      {"name":"Macbook","price":"32.500.000","title":"Macbook Air M2","manu":"Apple","color":"Gold"},
-      {"name":"Rog Strix","price":"26.500.000","title":"Asus Rog Strix Scar 15 G533","manu":"Asus","color":"Black"},
-      {"name":"VivoBook","price":"26.500.000","title":"Asus Vivobook Pro 15 OLED","manu":"Asus","color":"Red"},
-      {"name":"Macbook","price":"26.500.000","title":"Macbook pro m1","manu":"Apple","color":"Gray"},
-      {"name":"Macbook","price":"26.500.000","title":"Macbook pro m1","manu":"Apple","color":"Gray"},
-      {"name":"Macbook","price":"26.500.000","title":"Macbook pro m1","manu":"Apple","color":"Gray"},
-      {"name":"Macbook","price":"26.500.000","title":"Macbook pro m1","manu":"Apple","color":"Gray"},
-      {"name":"Macbook","price":"26.500.000","title":"Macbook pro m1","manu":"Apple","color":"Gray"},
-      {"name":"Macbook","price":"26.500.000","title":"Macbook pro m1","manu":"Apple","color":"Gray"}
+      {"id":1,"name":"Macbook","price":"26.500.000","title":"Macbook Pro M1","manu":"Apple","color":"Gray"},
+      {"id":2,"name":"Macbook","price":"32.500.000","title":"Macbook Air M2","manu":"Apple","color":"Gold"},
+      {"id":3,"name":"Rog Strix","price":"26.500.000","title":"Asus Rog Strix Scar 15 G533","manu":"Asus","color":"Black"},
+      {"id":4,"name":"VivoBook","price":"26.500.000","title":"Asus Vivobook Pro 15 OLED","manu":"Asus","color":"Red"},
+      {"id":5,"name":"Macbook","price":"26.500.000","title":"Macbook pro m1","manu":"Apple","color":"Gray"},
+      {"id":6,"name":"Macbook","price":"26.500.000","title":"Macbook pro m1","manu":"Apple","color":"Gray"},
+      {"id":7,"name":"Macbook","price":"26.500.000","title":"Macbook pro m1","manu":"Apple","color":"Gray"},
+      {"id":8,"name":"Macbook","price":"26.500.000","title":"Macbook pro m1","manu":"Apple","color":"Gray"},
+      {"id":9,"name":"Macbook","price":"26.500.000","title":"Macbook pro m1","manu":"Apple","color":"Gray"},
+      {"id":10,"name":"Macbook","price":"26.500.000","title":"Macbook pro m1","manu":"Apple","color":"Gray"}
   ],
   "account": [
     {
+          "id": 1,
           "username": "chuongdn02",
           "password": "123"
         },
         {
+          "id": 2,
           "username": "chuongdn03",
           "password": "123"
         },
        {
+         "id": 3,
           "username": "chuongdn04",
           "password": "123"
         }
